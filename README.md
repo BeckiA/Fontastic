@@ -1,16 +1,19 @@
-# fontfamily_changer_flutter
+# Fontastic 🎨✒️
 
-A new Flutter project.
+**Dynamic Font Family Changer for Flutter**  
+*Preview, apply, and persist custom fonts with ease!*
 
-## Getting Started
+![Demo GIF](https://example.com/path-to-your-demo-gif.gif) *(Replace with actual demo link)*
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- 🔄 **Real-time font switching** with dropdown selector
+- 💾 **Persistent storage** using `shared_preferences`
+- 🌐 **App-wide font consistency** via Flutter's `ThemeData`
+- 🎚️ **Works with both** bundled fonts and Google Fonts
+- 👁️ **Visual preview** of each font family
 
-A few resources to get you started if this is your first Flutter project:
+## Installation 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/Fontastic.git
